@@ -1,0 +1,2 @@
+# Account Security and Ownership
+Unauthorized access, account ownership disputes, data export requests, account deletion, and suspected security breaches must be escalated to trained support staff. Users should not share passwords, full credit card numbers, or recovery codes in chat. Security review may require identity verification and audit log inspection.

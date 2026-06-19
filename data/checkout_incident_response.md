@@ -1,0 +1,2 @@
+# Checkout Incident Response
+Checkout degradation can affect order placement, revenue capture, and customer conversion. Merchants should enable backup payment routing if configured, pause non-critical campaign traffic, and monitor the status page. Engineering targets initial incident triage within 15 minutes after detection. Do not guarantee full restoration unless incident command confirms the recovery timeline.

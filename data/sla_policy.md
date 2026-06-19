@@ -1,0 +1,2 @@
+# Support SLA Policy
+Standard support receives first response within one business day. Priority support receives first response within four business hours. Critical production incidents are triaged continuously after acknowledgement. Resolution time depends on root cause, customer environment, and third-party dependencies. Escalations include handoff summaries and retrieved documentation.

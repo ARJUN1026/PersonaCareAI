@@ -1,0 +1,2 @@
+# Roles and Permissions
+Workspace roles include Owner, Admin, Developer, Analyst, and Billing Admin. Missing access is usually caused by role mismatch, pending invitation, or using the wrong workspace. Owners can update roles in Settings > Members. Billing Admin permission is required for invoices and payment methods.

@@ -1,0 +1,2 @@
+# API Troubleshooting Guide
+SaaSFlow APIs require the `Authorization: Bearer <token>` header on protected endpoints. A 401 Unauthorized response usually means the token is expired, malformed, missing, or issued for the wrong environment. Verify the header name, token expiry, OAuth client ID, tenant ID, and whether the request is going to sandbox or production. Gateway logs may include `invalid_token`, `expired_token`, `tenant_mismatch`, or `missing_authorization_header`. For 429 responses, use exponential backoff and pagination instead of aggressive polling.

@@ -1,0 +1,2 @@
+# Mobile App Support
+If the mobile app does not load, update to the latest version, verify network connectivity, clear application cache, restart the device, and sign in again. If push notifications fail, verify operating system notification permission and workspace notification settings.

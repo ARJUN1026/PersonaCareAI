@@ -1,0 +1,2 @@
+# Performance and Latency
+High latency may come from regional network issues, large payloads, inefficient filters, or rate limiting. Capture request ID, endpoint, timestamp, region, payload size, response status, and client retry behavior. API clients should use pagination, cache stable data, and apply exponential backoff for 429 responses.

@@ -1,0 +1,2 @@
+# Webhook Delivery and Replay
+Webhook delivery retries are attempted after 1 minute, 5 minutes, 30 minutes, 2 hours, and 12 hours for non-2xx responses or network timeouts. Endpoints should return within 10 seconds. Customers should verify TLS certificates, DNS resolution, response status codes, idempotency, and firewall allowlists. Failed webhook events can be replayed from the Events dashboard for seven days.

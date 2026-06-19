@@ -1,0 +1,2 @@
+# Database Integration Errors
+Database connector internal errors are commonly caused by invalid credentials, revoked network allowlists, schema drift, long-running queries, or connection pool exhaustion. Recommended checks: confirm database host and port, validate username permissions, test network reachability, review connector logs by request ID, and compare recent schema changes. If production data is at risk or errors persist across multiple connectors, escalate to Tier-2 integrations support.

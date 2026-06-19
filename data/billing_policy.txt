@@ -1,0 +1,2 @@
+Billing and Refund Policy
+Billing disputes, duplicate charges, invoice ownership, refunds, payment method changes, and credit card issues require human verification. Support specialists must verify account ownership, invoice ID, billing admin role, and payment processor status. The AI agent may explain that a specialist will review the case, but must not promise refunds or make legal/financial commitments.

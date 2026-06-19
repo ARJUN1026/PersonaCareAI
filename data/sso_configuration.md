@@ -1,0 +1,2 @@
+# SSO Configuration Guide
+SAML SSO requires correct Entity ID, ACS URL, signing certificate, and NameID email format. Common problems include invalid audience, expired certificate, incorrect clock skew, and mismatched email attributes. Check identity provider logs and SaaSFlow SSO audit events. SCIM provisioning requires a valid bearer token and accurate user attribute mappings.
